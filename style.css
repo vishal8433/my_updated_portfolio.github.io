@@ -1,0 +1,208 @@
+body {
+    background-color: none;
+}
+.c1 {
+
+    background: linear-gradient(rgba(0, 0, 100, 0.3), rgba(0, 0, 100, 0.3)), url(images/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80%;
+}
+.introimg {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.introline {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+.c2 {
+    background: linear-gradient(rgba(0, 0, 100, 0.6), rgba(0, 0, 100, 0.6)), url(images/bg2.png);
+    height: 50%;
+}
+.aboutme {
+    margin-top: 10%;
+}
+.aboutmeparagraph {
+    margin-top: 10%;
+}
+.header1 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    color: white;
+}
+.paragraph {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: white;
+}
+.c3 {
+    background-image: linear-gradient(red, orange, blue);
+}
+.skill {
+    text-align: center;
+    background-color: purple;
+    color: white;
+    font-family: inherit;
+    font-size: 30px;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+.skills {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: inherit;
+    font-size: 50px;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+.ulist {
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+}
+.internship-info {
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+}
+.workinfo {
+
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+}
+.plist {
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+}
+.c4 {
+    background-image: linear-gradient(white, aqua, lightyellow);
+}
+.courses {
+    text-align: center;
+    background-color: purple;
+    color: white;
+    font-family: inherit;
+    font-size: 50px;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+.btn-lg {
+    margin-top: 10%;
+    margin-bottom: 20%;
+    font-size: 50px;
+    width: 100%;
+}
+.c5 {
+    background-image: linear-gradient(rgba(0, 0, 100, 0.6), rgba(0, 0, 100, 0.6)), url(images/bg3.png);
+}
+.achivementheading {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.achievelist {
+    color: white;
+    font-size: 20px;
+}
+.h3header {
+    line-height: 3.0;
+    margin-top: 0;
+    text-align: center;
+}
+.fa-facebook-square {
+    color: blue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.fa-github {
+    color: darkgray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.fa-instagram {
+    color: red;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.gmail {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contactform {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 100, 0.6), rgba(0, 0, 100, 0.6)), url(images/bg.jpg);
+    height: 80%;
+}
+.contact-form {
+    margin-left: 0;
+}
+.contact-title {
+    color: #fff;
+    text-transform: uppercase;
+    transform: all 4s ease-in-out;
+}
+.contact-title h1 {
+    font-style: italic;
+    font-size: 32px;
+    line-height: 10px;
+}
+.contact-title h2 {
+    font-size: 16px;
+}
+.form {
+    margin-top: 50px;
+    text-align: center;
+    transition: all 4s ease-in-out;
+
+}
+.form-control {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+input {
+    height: 45px;
+}
+.submit {
+    background-color: #ff5722;
+    border-color: transparent;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+    width: 400px;
+}
+.submit:hover {
+    background-color: blue;
+    cursor: pointer;
+}
